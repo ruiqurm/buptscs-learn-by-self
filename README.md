@@ -52,7 +52,7 @@ Fork->Edit->Commit->PR，就是这么简单，对于课程的模板可以参考[
 ### 本科三年级
 
 - [编译原理与技术](./grade-3/Compilers.md)
-- [操作系统](./grade-3/Operating-Systems.md)
+- [操作系统](./grade-3/cs/Operating-Systems.md)
 - [数据库系统原理](./grade-3/Database.md)
 - [软件工程](./grade-3/Software-Engineering.md)
 - [计算机系统结构](./grade-3/Computer-Architecture.md)
